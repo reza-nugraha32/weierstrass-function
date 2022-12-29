@@ -1,4 +1,4 @@
-#Weierstrass Function
+# Weierstrass Function
 
 Weierstrass is a unique function where it is a real-valued function that's continuous everywhere but differentiable nowhere. <br>
 
